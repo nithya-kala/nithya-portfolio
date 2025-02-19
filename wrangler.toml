@@ -1,0 +1,8 @@
+name = "my-vite-worker"
+compatibility_date = "2024-02-19"
+
+[build]
+command = "vite build"
+cwd = "."
+watch_dir = "dist"
+upload.format = "modules"
