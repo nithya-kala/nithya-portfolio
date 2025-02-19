@@ -1,9 +1,0 @@
-name = "nithya-portfolio"
-type = "javascript"
-workers_dev = true
-compatibility_date = "2024-02-19"
-
-
-
-[site]
-bucket = "./dist"
