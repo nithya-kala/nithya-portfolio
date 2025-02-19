@@ -1,5 +1,7 @@
 # Vite react & Tailwind portfolio. 
 
+TODO
+
 ## Steps to run: 
 
 ### 1. `npm install`
