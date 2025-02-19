@@ -1,11 +1,11 @@
 name = "my-vite-worker"
 compatibility_date = "2024-02-19"
 
+# Ensure this is set if using a module format
+main = "./dist/index.js"
+
 [build]
 command = "vite build"
 cwd = "."
 watch_dir = "dist"
 upload.format = "modules"
-
-# Ensure this is set if using a module format
-main = "./dist/index.js"
